@@ -1,5 +1,5 @@
 # OrcamentoChurrasco__system
-# 🍖 Big Bull BBQ — Sistema de Orçamentos de Eventos
+# Sistema de Orçamentos de Eventos
 
 > **Projeto de Extensão Universitária** desenvolvido para automatizar a triagem e coleta de preferências de clientes para eventos de churrasco, integrando as solicitações diretamente ao WhatsApp do churrasqueiro para fechamento manual de propostas.
 
